@@ -1,0 +1,3 @@
+@tailwind base; # importing Tailwind's base styles
+@tailwind components; 
+@tailwind utilities;    
